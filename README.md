@@ -25,7 +25,7 @@ images will make them expand giving you some information about the characters.
 ### Links
 
 - GitHub Profile: [GitHub URL](https://github.com/Dayne2x)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/JavaScript-Drum-Kit/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Flex-Panels-Image-Gallery/)
 
 ## My process
 
